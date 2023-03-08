@@ -2,6 +2,8 @@
 
 * Introduction to BigQuery
 
+* BigQuery for GA360 and for GA4
+
 * Working with SQL
 
 * Understanding data from Google Analytics in BigQuery
