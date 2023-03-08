@@ -6,7 +6,7 @@
 
 * BigQuery for GA360 and for GA4
 
-  https://colab.research.google.com/github/pozueco/bq_training/blob/main/bigquery_for_ga.ipynb#scrollTo=TvU-bluRu6Vq
+  https://colab.research.google.com/github/pozueco/bq_training/blob/main/bigquery_for_ga.ipynb
 
 * Working with SQL
 
